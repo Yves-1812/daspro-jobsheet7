@@ -14,7 +14,6 @@ public class SiakadFor21 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
-        }
 
             if (nilai >=60) {
                 lulus++;
