@@ -13,6 +13,8 @@ public class SiakadFor21 {
             if (nilai < terendah) {
                 terendah = nilai;
             }
+        System.out.println("Nilai tertinggi: " + tertinggi);
+        System.out.println("Nilai terendah: " + terendah);
         }
     }
 }
